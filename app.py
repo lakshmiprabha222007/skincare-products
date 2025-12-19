@@ -13,7 +13,7 @@ st.set_page_config(page_title="🧴 Skincare Predictor", page_icon="🧴", layou
 
 # 🔥 UPDATE THESE WITH YOUR GITHUB REPO LINKS
 YOUR_USERNAME = "YOUR_USERNAME"  # ← CHANGE THIS!
-MODEL_URL = f"https://github.com/{YOUR_USERNAME}/skincare-app/raw/main/model.h5"
+MODEL_URL = f"https://github.com/lakshmiprabha222007/skincare-products/blob/main/cnn_model.h5"
 DATA_URL = f"https://github.com/{YOUR_USERNAME}/skincare-app/raw/main/skin_products-1.xlsx"
 
 @st.cache_resource
