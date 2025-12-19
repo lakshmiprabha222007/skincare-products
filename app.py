@@ -16,7 +16,7 @@ name = st.text_input("Enter Your Name")
 img_data = st.camera_input("📷 Take a Photo")
 
 # -------- GITHUB MODEL URL --------
-url = "https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/cnn_model.h5"
+url = "https://github.com/lakshmiprabha222007/skincare-products/blob/main/cnn_model.h55"
 
 @st.cache_resource
 def load_model():
